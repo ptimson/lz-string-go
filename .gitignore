@@ -1,0 +1,14 @@
+# golang output binary directory
+bin
+
+# golang vendor (dependencies) directory
+vendor
+
+# IDEA
+.idea
+
+# Log
+*.log
+
+# Mac
+.DS_Store
